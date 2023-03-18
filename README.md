@@ -17,9 +17,9 @@
   
   <h3> About Developer :-</h3>
   
-  <H3> Script By The Devil Tigers </H3>
+  <H3> Script By The Official Hacker </H3>
   
-©[The Devil Tigers](https://www.youtube.com/c/thmalayalam)
+©[OFFICIAL HACKER](https://OFFICIALHACKERERA)
 
 <h3>FOR EDUCATIONAL PURPOSE ONLY</h3>
   
