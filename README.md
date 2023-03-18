@@ -8,7 +8,7 @@
 <h4> • apt update -y </h4>
 <h4> • apt upgrade -y </h4>
 <h4> • pkg install git -y </h4>
-<h4> • git clone https://github.com/Devil-Tigers/Trmx_pkg_installer.git </h4>
+<h4> • git clone https://github.com/OFFICIALHACKERERA/Trmx-Pkg-Installer.git </h4>
 <h4> • cd Trmx_pkg_installer </h4>
 <h4> • bash trmx-pkg-installer.sh </h4>
 <P1> Now The Tool will start running and Check and install all packages Automatically </P1>
